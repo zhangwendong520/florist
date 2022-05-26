@@ -1,0 +1,98 @@
+.swiper img{
+  width: 1000px;
+  height: 260px;
+}
+.content{
+  width: 1000px;
+}
+.content-left{
+  width: 200px;
+  padding: 0 5px;
+  float: left;
+}
+.content-left .aa{
+  background-color: pink;
+}
+.bb{
+  font-size: 25px;
+  color: #FFFFcd;
+  letter-spacing: 10px;
+  height: 100px;
+  line-height: 40px;
+  padding: 20px 10px;
+}
+.cc img{
+  display: block;
+  width: 160px;
+  margin: 20px auto;
+}
+.dd img{
+  width: 160px;
+  margin: 15px;
+}
+.btn-box{
+  margin: 0 auto;
+  padding: 0 0 15px 0;
+}
+a{
+  text-decoration:none;
+}
+.btn-box a:visited{
+  color: pink;
+}
+.btn-box a:hover{
+  color: blue;
+}
+.aa .btn-box .btn{
+  color: pink;
+  background-color: #ffffff;
+  padding: 5px 5px;
+  border: 1px solid pink;
+  margin: 5px 15px 20px;
+}
+.aa{
+ text-align: center;
+}
+.content-right{
+  float: left;
+  padding-left: 10px;
+}
+.footer{
+  width: 100%;
+  height: 60px;
+  line-height: 30px;
+  text-align: center;
+  background-color: pink;
+}
+table,td,tr{
+  text-align: center;
+  border: 1px solid #000;
+  border-collapse:collapse;
+  text-align: left;
+}
+.content-right table{
+  width: 790px;
+  border: 1px solid #000000;
+}
+.content-right table tr td {
+  padding: 10px 10px;
+}
+.content-right table tr td > button{
+  color: #ffffff;
+  background-color: pink;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  margin: 0 25px 0 10px;
+}
+.content-right table tr td > img{
+  width: 100px;
+  margin: 0 25px 0 10px;
+}
+.content-right table tr > .xilie{
+  color: #ffffff;
+  background-color: pink;
+}
+.content-right table tr > .image{
+  background-color: #ffffff;
+}

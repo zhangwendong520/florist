@@ -1,0 +1,80 @@
+.swiper img{
+    width: 1000px;
+    height: 260px;
+}
+.aa{
+    width: 1000px;
+    padding: 10px 0 10px 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+.bb{
+    width: 278px;
+    border: 2px solid pink;
+    float: left;
+}
+.cc{
+    width: 278px;
+    border-bottom: 2px solid pink;
+    font-size: 22px;
+    line-height: 50px;
+    background-color: pink;
+    text-align: center;
+}
+.dd,.ee{
+    text-align: center;
+    line-height: 40px;
+    font-family: 楷体;
+    font-size: 18px;
+}
+.dd{
+    border-bottom: 2px solid pink;
+}
+.dd a:visited{
+    color: pink;
+}
+.dd a:hover{
+    color: blue;
+}
+.ee img{
+    width: 258px;
+    height: 150px;
+    padding-top: 12px;
+}
+.ff{
+    width: 696px;
+    float: left;
+    border: 2px solid pink;
+    border-left: 0;
+}
+.gg{
+    font-size: 22px;
+    line-height: 50px;
+    border-bottom: 2px solid pink;
+}
+.gg span{
+    font-size: 16px;
+    color: pink;
+}
+.hh{
+    width: 696px;
+    padding: 10px 0;
+}
+.ii{
+    width: 150px;
+    height: 180px;
+    border: 2px solid pink;
+    float: left;
+    margin: 10px;
+    background-color: pink;
+}
+.ii img{
+    width: 150px;
+    float: left;
+}
+.jj{
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}

@@ -1,0 +1,50 @@
+.swiper img{
+    width: 1000px;
+    height: 260px;
+}
+.aa{
+    width: 1000px;
+    background-color: #ffffff;
+}
+.bb{
+    text-align: center;
+    font-size: 24px;
+    height: 80px;
+    line-height: 80px;
+}
+.cc{
+    width: 220px;
+    height: 340px;
+    background-color: #fffff0;
+    border: 2px solid #E0E0E0;
+    float: left;
+    margin: 0px 0px 20px 20px;
+}
+.cc img{
+    width: 190px;
+    padding: 15px;
+}
+.ff{
+    color: red;
+    line-height: 45px;
+    font-weight: bold;
+}
+.ff span{
+    color: #a0a0a0;
+    font-weight: normal;
+    font-size: 14px;
+}
+.gg{
+    width: 150px;
+    line-height: 30px;
+    background-color: #E0E0E0;
+    margin: 0 auto;
+    text-align: center;
+}
+.footer{
+    width: 100%;
+    height: 60px;
+    line-height: 30px;
+    text-align: center;
+    background-color: pink;
+}

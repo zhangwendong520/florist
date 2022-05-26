@@ -1,0 +1,54 @@
+.swiper img{
+    width: 1000px;
+    height: 380px;
+}
+.aa{
+    width: 1000px;
+    height: 720px;
+    background-color: #6A5ACD;
+}
+.bb,.cc,.dd{
+    width: 700px;
+    margin: 0 auto;
+}
+.bb{
+    height: 60px;
+    font-size: 30px;
+    line-height: 110px;
+    color: pink;
+    font-weight: bolder;
+    margin-bottom: 50px;
+} 
+.cc{
+    height: 30px;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: lighter;
+    padding: 10px 0;
+    background-color: #c0c0c0;
+    color: #000000;
+}
+.dd{
+    height: 500px;
+    padding-top: 20px;
+}
+.dd input{
+    width: 330px;
+    height: 30px;
+}
+.ee{
+    text-align: right;
+}
+.ee input{
+    width: 60px;
+    height: 30px;
+    border: 2px solid #72777b;
+    background-color: #c0c0c0;
+}
+.footer{
+    width: 100%;
+    height: 60px;
+    line-height: 30px;
+    text-align: center;
+    background-color: pink;
+}

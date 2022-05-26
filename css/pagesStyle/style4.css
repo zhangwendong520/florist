@@ -1,0 +1,63 @@
+.swiper img{
+    width: 1000px;
+    height: 260px;
+}
+.aa{
+    width: 1000px;
+    padding: 10px 0 10px 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+.bb,.ii{
+    width: 240px;
+    border: 2px solid pink;
+    float: left;
+}
+.cc{
+    width: 240px;
+    border-bottom: 2px solid pink;
+    font-size: 22px;
+    line-height: 50px;
+    background-color: pink;
+    text-align: center;
+    font-family: 楷体;
+    float: left;
+}
+.dd,.ee{
+    text-align: center;
+    line-height: 40px;
+    font-family: 楷体;
+    font-size: 18px;
+}
+.dd{
+    border-bottom: 2px solid pink;
+}
+.ff{
+    width: 476px;
+    margin-left: 10px;
+    float: left;
+}
+.gg{
+    text-align: center;
+    font-size: 24px;
+    font-family: 楷体;
+    line-height: 60px;
+}
+.hh p{
+    
+    line-height: 30px;
+    letter-spacing: 2px;
+    font-family: 楷体;
+    font-size: 18px;
+}
+.ii{
+    float: right;
+    margin-right: 10px;
+}
+.footer{
+    width: 100%;
+    height: 60px;
+    line-height: 30px;
+    text-align: center;
+    background-color: pink;
+}
